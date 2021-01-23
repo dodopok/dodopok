@@ -3,8 +3,8 @@
 
 I live in Ribeirao Preto, Sao Paulo. I love programming and coffee. Like, for real. 
 
-- ✨ Currently, I'm working remotely at a logistics software company called ESL. Our stack is based on: Heroku, Rails, Vue.js and Ionic.
-- 🎬 I also have a YouTube channel called Teologueiros, where we talk about Theology in a modern and approachable way.
+- ✨ Currently, I'm working remotely at a **logistics software company called ESL**. Our stack is based on: **Heroku, Rails, Vue.js and Ionic**.
+- 🎬 I also have a YouTube channel called **Teologueiros**, where we talk about Theology in a modern and approachable way.
 
 Skills
 --------------------------------------------------------------------------------
