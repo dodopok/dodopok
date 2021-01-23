@@ -42,7 +42,7 @@ Where to find me?
 Send an email to `dev[at]dodopok[dot]dev` or talk to me at Twitter!
 
 <a href="https://twitter.com/douglas_oaraujo" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="douglas_oaraujo" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="douglas_oaraujo" height="30" width="30" />
 </a>
 
 <hr />
