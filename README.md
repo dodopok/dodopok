@@ -1,7 +1,7 @@
 ### Hi, I am Douglas Araujo! 👋
 =========================================================================================================
 
-I live in Ribeirao Preto, Sao Paulo. I love programming and coffee. Like, for real. 
+I live in Vitoria, on the beautiful state of Espirito Santo. I love programming and coffee. Like, for real. 
 
 - ✨ Currently, I'm working remotely at a **CXaaS company called Infracommerce**. Our stack is based on: **Vue, Vuetify, and NodeJS**.
 - 🎬 I also have a YouTube channel called **Teologueiros**, where we talk about Theology in a modern and approachable way.
