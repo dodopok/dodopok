@@ -46,7 +46,3 @@ Send an email to `dev[at]dodopok[dot]dev` or talk to me at Twitter!
 </a>
 
 <hr />
-
-For more information, please take a look at my [Resume][cv].
-
-[cv]: https://raw.githubusercontent.com/dodopok/dodopok/master/curriculum.EN-US.pdf
