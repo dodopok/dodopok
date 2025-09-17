@@ -1,9 +1,9 @@
 ### Hi, I am Douglas Araujo! 👋
 =========================================================================================================
 
-I live in Vitoria, on the beautiful state of Espirito Santo. I love programming and coffee. Like, for real. 
+I live in São Paulo, on the beautiful state of - also - São Paulo. I love programming and coffee. Like, for real. 
 
-- ✨ Currently, I'm working remotely at a **company called Add**.
+- ✨ Currently, I'm working remotely at a **company called .add**.
 - 🎬 I also have a YouTube channel called **Teologueiros**, where we talk about Theology in a modern and approachable way.
 
 Skills
